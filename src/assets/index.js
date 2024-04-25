@@ -30,6 +30,13 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import UserConnect from "./UserConnect.png";
+import ProductPro from "./ProductPro.png";
+import UserGenius from "./UserGenius.png";
+
+import gomycode from "./company/gomycode.png";
+import qualipro from "./company/qualipro.png";
+
 export {
   logo,
   backend,
@@ -59,4 +66,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  qualipro,
+  gomycode,
+  UserConnect,
+  ProductPro,
+  UserGenius,
 };
